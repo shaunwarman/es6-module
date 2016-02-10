@@ -1,7 +1,4 @@
-import fs from 'fs';
 import request from 'request';
-
-const file = './test.txt';
 
 function getQuote() {
 
